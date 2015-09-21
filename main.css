@@ -8,15 +8,20 @@ body {
 }
 
 footer {
-	background-color:#005700;
+	background-color: #95BE22;
+	width:81%;	
 	text-align:center; 
 	font-weight:bold; 
+	margin:0 auto; 
 }
 
 h1 {
-	text-align:center;	
+	text-align:center;
+	background-color: #95BE22; 
+	width:81%;	
 	font-size: 3.5em; 
 	font-weight:bold; 
+	margin:0 auto; 
 }
 h2 {
 	text-align:center;	
@@ -30,6 +35,18 @@ h5 {
 
 
 
+#menu { 
+	text-align:center;
+	list-style-type:none; 
+	background-color: #95BE22; 
+	font-weight:bold; 
+	width:80%;
+	overflow:hidden;
+	margin:0 auto; 
+	font-size: 20;
+	padding:10px; 
+}
+	
 #resume{
 	width:80%; 
 	margin:0 auto; 
