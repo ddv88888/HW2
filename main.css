@@ -1,0 +1,38 @@
+/* Color Libraty
+Background color: #005700
+menu bar color: #95BE22 */
+
+
+body {
+	background-color:#005700;
+}
+
+footer {
+	background-color:#005700;
+	text-align:center; 
+	font-weight:bold; 
+}
+
+h1 {
+	text-align:center;	
+	font-size: 3.5em; 
+	font-weight:bold; 
+}
+h2 {
+	text-align:center;	
+	font-size: 2em; 
+	font-weight:bold; 
+}
+h5 {
+	text-align:center;	
+}
+
+
+
+
+#resume{
+	width:80%; 
+	margin:0 auto; 
+	padding:20px; 
+	text-align:left; 
+}
